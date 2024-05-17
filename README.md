@@ -1,7 +1,5 @@
 # stayVista-starter-template
 
-## Live Link: Coming Soon..
-
 ### Important Links:
 
 - [StayVista Resources](https://github.com/shakilahmedatik/b9-stayVista-resources)
@@ -10,6 +8,7 @@
 ### All the packages used in this project:
 
 - [@headlessui/react](https://www.npmjs.com/package/@headlessui/react)
+- [IMGBB Api](https://api.imgbb.com/)
 - [@tanstack/react-query](https://www.npmjs.com/package/@tanstack/react-query)
 - [axios](https://www.npmjs.com/package/axios)
 - [date-fns](https://www.npmjs.com/package/date-fns)
