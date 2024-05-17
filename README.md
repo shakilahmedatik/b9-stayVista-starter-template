@@ -5,7 +5,7 @@
 - [StayVista Resources](https://github.com/shakilahmedatik/b9-stayVista-resources)
 - [Project Requirement Doc](https://docs.google.com/document/d/1rzueKvZTinMb3XY7cuDNH0S0d_l8CflG1H95VUi2Dto/edit?usp=sharing)
 
-### All the packages used in this project:
+### Packages and api docs used in this project:
 
 - [@headlessui/react](https://www.npmjs.com/package/@headlessui/react)
 - [IMGBB Api](https://api.imgbb.com/)
