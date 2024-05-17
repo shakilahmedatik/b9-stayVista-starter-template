@@ -2,6 +2,8 @@
 
 ### Important Links:
 
+
+- [StayVista Part 1](https://github.com/shakilahmedatik/b9-stayVista-part1)
 - [StayVista Resources](https://github.com/shakilahmedatik/b9-stayVista-resources)
 - [Project Requirement Doc](https://docs.google.com/document/d/1rzueKvZTinMb3XY7cuDNH0S0d_l8CflG1H95VUi2Dto/edit?usp=sharing)
 
