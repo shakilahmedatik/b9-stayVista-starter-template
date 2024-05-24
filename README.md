@@ -27,13 +27,21 @@
 
 
 **Part 2 (20/05/2024):**
-- Dashboard Layout/
+- Dashboard Layout
 - Add Room Page setup and functionality implement.
 - My Listings Page setup and functionality implement.
 - Save Registered users info in db.
 - Become a host api request implement.
 - Calendar issue fix in Room Details Page.
 
+**Part 3 (24/05/2024):**
+- useRole Hook.
+- Profile Page.
+- Manage Users Page.
+- Sidebar modifications.
+- Secure client and server routes.
+- Become a host Button functionality.
+- Booking modal and routes in dasboard.
 
 
 ### Packages and api docs used in this project:
