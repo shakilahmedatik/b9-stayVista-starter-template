@@ -43,6 +43,11 @@
 - Become a host Button functionality.
 - Booking modal and routes in dasboard.
 
+**Part 4 (28/05/2024):**
+- Payment system (Stripe).
+- Email Sending (NodeMailer).
+- Statistics Page in Dashboard.
+- Update Room Functionality.
 
 ### Packages and api docs used in this project:
 
