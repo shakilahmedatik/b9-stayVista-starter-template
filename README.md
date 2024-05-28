@@ -46,6 +46,11 @@
 
 ### Packages and api docs used in this project:
 
+- [Stripe Website](https://stripe.com/)
+- [Stripejs Github](https://github.com/stripe/react-stripe-js)
+- [Stripejs Documentation](https://docs.stripe.com/payments/quickstart)
+- [@stripe/react-stripe-js](https://www.npmjs.com/package/@stripe/react-stripe-js)
+- [Resend Email](https://resend.com/home)
 - [@headlessui/react](https://www.npmjs.com/package/@headlessui/react)
 - [IMGBB Api](https://api.imgbb.com/)
 - [@tanstack/react-query](https://www.npmjs.com/package/@tanstack/react-query)
@@ -58,7 +63,6 @@
 - [react-icons](https://www.npmjs.com/package/react-icons)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [react-spinners](https://www.npmjs.com/package/react-spinners)
-- [@stripe/react-stripe-js](https://www.npmjs.com/package/@stripe/react-stripe-js)
 - [@stripe/stripe-js](https://www.npmjs.com/package/@stripe/stripe-js)
 - [firebase](https://www.npmjs.com/package/firebase)
-- [react-google-charts](https://www.npmjs.com/package/react-google-charts)
+- [react-google-charts](https://www.react-google-charts.com/examples/line-chart)
